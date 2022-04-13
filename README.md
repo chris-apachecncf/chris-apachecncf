@@ -1,4 +1,4 @@
-### Hi there 👋,I am Chris
+### Hi there 👋,I am Chris 👨
 
 - :book: Bachelor degree in CS and used to be a coder 
 - :loudspeaker: Speak in C/C++, Java, Python etc 
