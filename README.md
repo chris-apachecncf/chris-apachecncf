@@ -7,7 +7,6 @@
 - :email: My email chris.zhou@aliyun.com
 - :secret: My wechat ID chriszhou_01
 - :office: Shanghai
-- ⚡ Fun ::spades::hearts::clubs::diamonds:
 
 
 <!--
