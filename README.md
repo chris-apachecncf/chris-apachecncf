@@ -3,7 +3,7 @@
 - :book: Bachelor degree in CS and used to be a coder 
 - :loudspeaker: Speak in C/C++, Java, Python etc 
 - :rocket: ex-cofounded a martech company backed up by several top VC firms
-- 🤔 Currently, devote all enthusiasm to the global expansion of open source projects
+- 🤔 Currently focus on talent recruitment in the fields of AI and Embodied Intelligence
 - :email: My email chris.zhou@aliyun.com
 - :secret: My wechat ID chriszhou_01
 - :office: Shanghai
